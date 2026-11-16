@@ -1,5 +1,10 @@
-# Lending Club
-> Lending Club is a case study of a company which is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. The main aim of this case study is to identify the risky loan applicants so that the loans can be reduced thereby cutting the amount of credit loss
+# Lending Club Credit Risk Analysis
+
+Exploratory data analysis of Lending Club loans to find which applicant and loan attributes drive default (charge-off).
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Case study](https://img.shields.io/badge/type-case_study-64748B?style=flat-square) ![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
+
+> Case study from the upGrad × IIIT Bangalore Executive PG Programme in ML & AI.
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -305,3 +310,13 @@ Below observations were made as part of this analysis :
 - **Loan Purpose**: Loans for small businesses, renewable energy, and education exhibit higher charge-off rates, while loans for weddings, cars, credit cards, and major purchases have lower charge-off rates.
 
 These factors provide insights into customer behavior that can help lenders understand and mitigate loan charge-off risks.
+
+---
+
+## License
+
+MIT. See [LICENSE](LICENSE).
+
+## Author
+
+**Ankit Surana** · Data & AI Engineer · [ankitsurana.dev](https://ankitsurana.dev) · [LinkedIn](https://www.linkedin.com/in/ankitsurana002/) · [GitHub](https://github.com/AnkitSurana)
